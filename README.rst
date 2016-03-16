@@ -6,25 +6,25 @@
 tdf.extensioncentertheme
 ==============================================================================
 
-Tell me what your product does
+A new theme addon product for the new LibreOffice Extension and Template center website based on styles of the Plone theme Barceloneta
 
 Features
 --------
 
-- Can be bullet points
+- The theme will run on Plone 5 and will adapt the styles to the LibreOffice main website.
 
 
 Examples
 --------
 
 This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
+- http://vm141.documentfoundation.org:9103/loexttem5/en
 
 
 Documentation
 -------------
 
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
+Full documentation for end users can be found in the "docs" folder
 
 
 Translations
@@ -32,7 +32,7 @@ Translations
 
 This product has been translated into
 
-- Klingon (thanks, K'Plai)
+-
 
 
 Installation
@@ -63,7 +63,7 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+We have a mailing list located at: info@documentfoundation.org
 
 
 License
