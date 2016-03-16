@@ -4000,7 +4000,7 @@ a.plone-toolbar-logo {
   }
 }
 #portal-footer-wrapper {
-  padding: 30px 15px;
+  padding: 15px 15px;
   background-color: #2e3133;
   color: #cccccc;
   text-align: center;
@@ -4708,4 +4708,83 @@ body.template-logged_out #content-core .portletFooter {
 #search-filter input {
   margin-right: 0.5rem;
 }
-/*# sourceMappingURL=++theme++barceloneta/less/barceloneta-compiled.css.map */
+
+/* TDF-Extras */
+
+#tdf-footer-wrapper {
+  padding:30px 15px 10px 15px;
+  background-color: #2e3133;
+  color: #cccccc;
+  text-align: center;
+  clear: both;
+}
+
+#tdf-footer-wrapper p {
+    border-bottom: 1px solid #4d4d4d;
+    padding-bottom: 20px;
+}
+
+#tdf-footer-wrapper abbr,
+#tdf-footer-wrapper ul {
+  color: #cccccc;
+}
+#tdf-footer-wrapper a {
+  color: #00A500;
+}
+#tdf-footer-wrapper a:hover {
+  color: #00A500;
+}
+#tdf-footer-wrapper .portletWrapper {
+  display: inline-block;
+}
+#tdf-footer-wrapper .portletWrapper:first-child {
+  display: block;
+  border-bottom: 1px solid #4d4d4d;
+  padding-bottom: 1em;
+  margin-bottom: .5em;
+}
+#tdf-footer-wrapper .portlet {
+  background: transparent;
+  border: 0;
+  font-weight: 300;
+  box-shadow: none;
+  margin-bottom: 0;
+}
+#tdf-footer-wrapper .portlet .portletContent {
+  padding: 0;
+  background: transparent;
+  border: 0;
+}
+#tdf-footer-wrapper .portlet .portletContent > * {
+  padding: inherit;
+}
+#tdf-footer-wrapper .portlet .portletContent li {
+  background: transparent;
+  display: inline-block;
+  border: 0;
+  white-space: nowrap;
+  padding: 10px 30px;
+}
+#tdf-footer-wrapper .portlet#portal-colophon .portletContent a {
+  padding: 10px 30px;
+}
+#tdf-footer-wrapper .portlet .portletItem:before,
+#tdf-footer-wrapper .portlet .portletItem a:before {
+  content: "";
+}
+#tdf-footer-wrapper .portlet .portletItem a {
+  padding: 0;
+  border: 0;
+}
+#tdf-footer-wrapper .portlet .portletActions {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 700;
+  margin-right: 15px;
+}
+
+#tdf-footer p {
+    color:#ffffff;
+    margin-left:0.75em;
+    margin-right: 0.75em;
+}
