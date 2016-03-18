@@ -4720,8 +4720,7 @@ body.template-logged_out #content-core .portletFooter {
 }
 
 #tdf-footer-wrapper p {
-    border-bottom: 1px solid #4d4d4d;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
 }
 
 #tdf-footer-wrapper abbr,
