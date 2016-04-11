@@ -4787,3 +4787,26 @@ body.template-logged_out #content-core .portletFooter {
     margin-left:0.75em;
     margin-right: 0.75em;
 }
+
+
+
+
+
+/* Twothumbs */
+
+.thumb-rating{
+    float: right;
+	position: relative;
+}
+
+.thumb-rating form {
+    text-align: right;
+}
+
+.total-thumbs-up .tally-total{
+    color: green;
+}
+
+.total-thumbs-down .tally-total{
+    color: red;
+}
