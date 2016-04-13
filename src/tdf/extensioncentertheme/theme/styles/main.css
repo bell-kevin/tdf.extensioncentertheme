@@ -4878,3 +4878,51 @@ form .selected input.dislike-button {
 .twothumbs-feedback a.close-link:link:active {
 	background-position: 0 -26px;
 }
+
+
+/* frontpageview styles */
+
+ul.latestextensionreleases,
+ul.newestextensionprojects,
+ul.newesttemplateprojects,
+ul.latesttemplatereleases{
+    list-style: none;
+    padding: 0em;
+}
+
+#extension_projects span.product-leadin,
+#template_projects span.product-leadin{
+    display: block;
+    font-size: 0.7em;
+    font-color: #999;
+}
+
+
+.product-details .product-leadin{
+    font-size: .8em;
+    color: #999;
+}
+
+.product-details {
+    padding-bottom: 4em;
+    padding-right: 8em;
+}
+
+div.project-thumb-thumbzoom img {
+    float: left;
+    margin-right: 1.5em;
+}
+
+#latest_extension_releases,
+#latest_template_releases{
+    float: left;
+    margin-top: 1.5 em;
+    padding-bottom: 3em;
+    width: 100%;
+}
+
+#extension_projects,
+#template_projects{
+    width: 100%
+    margin-bottom: 2em;
+}
