@@ -4879,6 +4879,16 @@ form .selected input.dislike-button {
 	background-position: 0 -26px;
 }
 
+span.thumbs-up,
+span.thumbs-down{
+    border: 1px  solid;
+    border-color: #999;
+    padding: 9px 5px 9px 3px;
+}
+
+span.thumbs-up {
+    margin-right: 5px;
+}
 
 /* frontpageview styles */
 
